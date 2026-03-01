@@ -4,7 +4,6 @@
 ## Sumário
 - [Objetivo](#objetivo)
 - [Dataset](#dataset)
-- [Script](#script)
 - [Documentação](#Documentação)
 - [Link da Apresentação](#Link-da-Apresentação)
 - [Membros do Grupo](#membros-do-grupo)
@@ -15,15 +14,8 @@ O projeto visa analisar a série histórica da dengue no estado de São Paulo (2
 ## Dataset
 Os dados são provenientes do InfoDengue, consumidos via API do Mosqlimate por meio de scripts em Python. O recorte abrange todos os municípios do estado de São Paulo entre 01/01/2015 e 31/12/2026, com granularidade de semana epidemiológica. O conjunto de dados integra variáveis epidemiológicas (casos notificados/estimados, incidência e taxa de reprodução), demográficas (população) e climáticas (temperatura e umidade). Esta base será processada para análises de séries temporais, permitindo o monitoramento da evolução da dengue e a comparação da dinâmica da doença em diferentes escalas municipais e estaduais.
 
-
-## Script
-
 ## Documentação
 A documentação do projeto aplicado III está disponível na pasta [Documentação](./Documentação).
-
-## Link da Apresentação
-Link de acesso para a apresentação do projeto:
-
 
 ## Membros do Grupo
 - **Brenno Monteiro de Oliveira**
